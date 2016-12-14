@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *baillement*
+=======
+NOPE
+>>>>>>> 581e07ea1dae8662da7f56206d918b63b155efdd
